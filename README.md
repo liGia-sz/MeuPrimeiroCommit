@@ -1,2 +1,3 @@
 # MeuPrimeiroCommit
-Uma breve história do GIT
+Comandos Básicos
+git add 
