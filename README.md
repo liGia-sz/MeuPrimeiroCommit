@@ -1,5 +1,5 @@
 # MeuPrimeiroCommit
-###Comandos Básicos que utilizamos nesta aula:
+### Comandos Básicos que utilizamos nesta aula:
 
 **git config --global user.name "Nome completo":** Definir usuário.
 
