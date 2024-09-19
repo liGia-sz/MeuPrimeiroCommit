@@ -13,6 +13,17 @@
 
 **git clone:** Clona um repositório já existente no git.
 
-**git commit meu_arquivo.txt:** Leva as mudanças do ambiente loval (computador) para o repositório no git.
+**git commit meu_arquivo.txt:** Grava as mudanças do ambiente local (computador) para o repositório no git.
 
 **git push:** envia seu arquivo para a nuvem/github.
+
+### ATIVIDADE 04
+Para inicializar o GIT em um novo repositório: **R: git init**
+
+Para adicionar alterações realizadas no repositório: **R: git add**
+
+Para gravar as alterações: **R: git commit**
+
+Para enviar as alterações para a nuvem/repositório online: **R: git push**
+
+Se o repositório em meu computador estiver desatualizado, como faço para atualizá-lo? **R:git pull** para atualizar o repositório. 
