@@ -1,4 +1,4 @@
-# MeuPrimeiroCommit
+# 📃 MeuPrimeiroCommit
 ### Comandos Básicos que utilizamos nesta aula:
 
 **git config --global user.name "Nome completo":** Definir usuário.
@@ -17,7 +17,7 @@
 
 **git push:** envia seu arquivo para a nuvem/github.
 
-### ATIVIDADE 04
+### 📝 ATIVIDADE 04
 Para inicializar o GIT em um novo repositório: **R: git init**
 
 Para adicionar alterações realizadas no repositório: **R: git add**
